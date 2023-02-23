@@ -1,0 +1,12 @@
+applied_templates:
+- inputs: {}
+  template_data_path: ''
+- inputs:
+    login: barbara.lima@zup.com.br
+    senha: Jujub@123456
+    string_cenexao: bd-conexao
+  template_data_path: template-exemplo/exemplo-plugin
+global_computed_inputs: {}
+global_inputs: {}
+stack: stack-spot
+stack_type: app

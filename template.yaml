@@ -6,4 +6,9 @@ inputs:
   - label: Project name
     type: text
     name: project_name
-    default: project-name
+  - label: Descrição do projeto
+    type: text
+    name: descricao-projeto
+   - label: Estrutura de pastas
+    type: text
+    name: estrutura-de-pastas
